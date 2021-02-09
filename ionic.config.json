@@ -1,0 +1,7 @@
+{
+  "name": "Projet_Cedric_SANNA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
